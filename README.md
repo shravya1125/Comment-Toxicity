@@ -1,7 +1,7 @@
 🛑 Comment Toxicity Detection Using Machine Learning       
 A machine learning model to classify toxic comments using NLP techniques. Built using TensorFlow, NLP preprocessing, and deep learning. 
 
-🚀 Features     
+Features     
 ✅ Detects toxic comments in real-time    
 ✅ Uses LSTM, BERT, or CNN for classification    
 ✅ Web Interface powered by Gradio    
@@ -11,7 +11,7 @@ A machine learning model to classify toxic comments using NLP techniques. Built 
 ![Screenshot (929)](https://github.com/user-attachments/assets/22f1bbf3-5e5b-4f97-ae8b-eb2013c59ebb)
 
 🔧 Technologies Used 
-- **Programming Language**: Python 🐍  
+- **Programming Language**: Python   
 - **Machine Learning Frameworks**: TensorFlow, Keras  
 - **Natural Language Processing**: NLTK, SpaCy, Word Embeddings (Word2Vec, GloVe)  
 - **Deep Learning Models**: LSTM, BERT, CNN  
@@ -20,11 +20,11 @@ A machine learning model to classify toxic comments using NLP techniques. Built 
 - **Deployment**: Hugging Face Spaces
 - **Version Control**: Git, GitHub  
 
-🚀 Live Demo   
+Live Demo   
 👉 [Try it out on Hugging Face](https://3f79617db1fe58080a.gradio.live)
 This share link expires in 72 hours. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)
 
-🛠️ Setup & Installation 
+Setup & Installation 
 
 ```bash
 # Clone the repository
